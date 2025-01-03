@@ -409,7 +409,7 @@ h6 {
   }
 }
 
-@media (max-width 767px) {
+@media (max-width: 767px) {
   .button {
     padding-inline: 18px;
   }
